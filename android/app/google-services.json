@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "820720674180",
+    "firebase_url": "https://samrajya-2c42c.firebaseio.com",
+    "project_id": "samrajya-2c42c",
+    "storage_bucket": "samrajya-2c42c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820720674180:android:581671e08f14f0f72ee9d1",
+        "android_client_info": {
+          "package_name": "com.codegurkha.samrajya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820720674180-9d62v8q3qjc5iok240uff77u7l9v45r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codegurkha.samrajya",
+            "certificate_hash": "1119cbbd382638625ec2a13132db24a25baa2d54"
+          }
+        },
+        {
+          "client_id": "820720674180-gfk23vl0405nutitd32limo72fa8pfvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawF7mhh2sGV95AJNZ4_3M5J8zFXRSBys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820720674180-gfk23vl0405nutitd32limo72fa8pfvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820720674180:android:f10c57fb288606122ee9d1",
+        "android_client_info": {
+          "package_name": "com.codegurkha.samrajya_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820720674180-tvk4lhg4nmmk8816vueajk93ae8s1h1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codegurkha.samrajya_admin",
+            "certificate_hash": "1119cbbd382638625ec2a13132db24a25baa2d54"
+          }
+        },
+        {
+          "client_id": "820720674180-gfk23vl0405nutitd32limo72fa8pfvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawF7mhh2sGV95AJNZ4_3M5J8zFXRSBys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820720674180-gfk23vl0405nutitd32limo72fa8pfvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
